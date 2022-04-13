@@ -46,12 +46,12 @@ H&Mグループは、53のオンラインマーケットと約4,850の店舗を�
 ## エイドリアン  
 
 ## 徳久  
-参考：同じ商品を何度も買う客はどのくらいいるか？　　
-https://www.kaggle.com/code/lichtlab/do-customers-buy-the-same-products-again　　
-・同じ商品（article_idが一致する商品）を3週間以内に再購入する客は6.6%　　
-・色やサイズが違う同じ商品（product_codeが一致する商品）を3週間以内に購入する客は9.4%　　
-・同じプロダクトタイプ（idxgrp_idx_prdtypが一致する商品）を3週間以内に購入する客は16.5%　　
-・複数回買われているものはbaby shirt, underwear, mens shirtなど。ただbaby wearはサイズによっては逆の傾向のものもある。　　
+参考：同じ商品を何度も買う客はどのくらいいるか？  
+https://www.kaggle.com/code/lichtlab/do-customers-buy-the-same-products-again  
+・同じ商品（article_idが一致する商品）を3週間以内に再購入する客は6.6%  
+・色やサイズが違う同じ商品（product_codeが一致する商品）を3週間以内に購入する客は9.4%  
+・同じプロダクトタイプ（idxgrp_idx_prdtypが一致する商品）を3週間以内に購入する客は16.5%  
+・複数回買われているものはbaby shirt, underwear, mens shirtなど。ただbaby wearはサイズによっては逆の傾向のものもある。  
 →使用頻度が高いものでバリエーションが多い商品は狙い目？
 
 ## 渡部  
